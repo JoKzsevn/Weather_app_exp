@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "error": null,
+    "response": [
+        {
+            "loc": {
+                "lat": 51.9225,
+                "long": 4.47917
+            },
+            "place": {
+                "name": "rotterdam",
+                "state": "zh",
+                "country": "nl"
+            },
+            "periods": [
+                {
+                    "timestamp": 1794153840,
+                    "dateTimeISO": "2026-11-08T17:04:00+01:00",
+                    "tempC": 8.9,
+                    "tempF": 48.02,
+                    "feelslikeC": 8.9,
+                    "feelslikeF": 48.02,
+                    "wetBulbGlobeTempC": 9.33,
+                    "wetBulbGlobeTempF": 48.79,
+                    "dewpointC": 6.07,
+                    "dewpointF": 42.93,
+                    "humidity": 82,
+                    "pressureMB": 1021,
+                    "pressureIN": 30.15,
+                    "windDir": "S",
+                    "windDirDEG": 186,
+                    "windSpeedKTS": 4.37,
+                    "windSpeedKPH": 8.1,
+                    "windSpeedMPH": 5.03,
+                    "windSpeedMPS": 2.25,
+                    "windGustKTS": 9.74,
+                    "windGustKPH": 18.04,
+                    "windGustMPH": 11.21,
+                    "windGustMPS": 5.01,
+                    "precipMM": 0,
+                    "precipIN": 0,
+                    "precipRateMM": 0,
+                    "precipRateIN": 0,
+                    "snowCM": 0,
+                    "snowIN": 0,
+                    "snowRateCM": 0,
+                    "snowRateIN": 0,
+                    "snowDepthCM": 0,
+                    "snowDepthIN": 0,
+                    "pop": 0,
+                    "visibilityKM": 8,
+                    "visibilityMI": 4.971,
+                    "sky": 100,
+                    "cloudsCoded": "OV",
+                    "weather": "Cloudy",
+                    "weatherCoded": "::OV",
+                    "weatherPrimary": "Cloudy",
+                    "weatherPrimaryCoded": "::OV",
+                    "icon": "cloudyn.png",
+                    "solradWM2": 0,
+                    "uvi": 0,
+                    "isDay": false,
+                    "spressureMB": 1019.9,
+                    "spressureIN": 30.12,
+                    "altimeterMB": 1020.7,
+                    "altimeterIN": 30.14,
+                    "solrad": {
+                        "azimuthDEG": 243.8568,
+                        "zenithDEG": 90.9821,
+                        "ghiWM2": 0,
+                        "dniWM2": 0,
+                        "dhiWM2": 0,
+                        "version": "v2"
+                    }
+                }
+            ],
+            "profile": {
+                "tz": "Europe/Amsterdam",
+                "tzname": "CET",
+                "tzoffset": 3600,
+                "isDST": false,
+                "elevM": 9,
+                "elevFT": 30
+            }
+        }
+    ]
+}
